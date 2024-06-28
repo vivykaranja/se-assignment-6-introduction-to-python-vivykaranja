@@ -6,12 +6,8 @@ Instructions:
 Answer the following questions based on your understanding of Python programming. Provide detailed explanations and examples where appropriate.
 
  Questions:
-
+ 
 1. Python Basics:
-   - What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
-  
-     
-**1. Python Basics:
    - What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.**
       - Python! It's a high-level, interpreted programming language that is in software development and scripting.
     
